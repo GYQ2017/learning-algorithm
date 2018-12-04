@@ -11,4 +11,5 @@
 | Archer     | [两数之和](https://github.com/Light-City/learning-algorithm/tree/master/Archer) |
 | ParkFeng   | [对角线遍历](https://github.com/Light-City/learning-algorithm/tree/master/ParkFeng) |
 | codingling | [两数相加(链表)](https://github.com/Light-City/learning-algorithm/tree/master/codingling) |
+| muchenchen | [从排序数组中删除重复项](https://github.com/Light-City/learning-algorithm/tree/master/muchenchen) |
 
