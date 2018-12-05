@@ -16,6 +16,6 @@
 | HughGuo    | [直通点](https://github.com/Light-City/learning-algorithm/tree/master/HughGuo) |
 | JeneYang   | [直通点](https://github.com/Light-City/learning-algorithm/tree/master/JeneYang) |
 | wangggong  | [直通点](https://github.com/Light-City/learning-algorithm/tree/master/wangggong) |
-| Spareribs  | [直通点](https://github.com/Light-City/learning-algorithm/tree/master/Spareribs) |
-|            |                                                              |
+| Spareribs  | [直通点](https://github.com/spareribs/learning-algorithm/tree/master/Spareribs) |
+|            |                                                                                 |
 
